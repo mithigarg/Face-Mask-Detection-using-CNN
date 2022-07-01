@@ -13,11 +13,4 @@ Installation:
 All the required installation are mentioned in the requirements.txt
 
 
-Usage:
-
-Step 1:training the model with the appropriate data with training.ipynb, downloading the model weights.
-
-Step 2:add the model weight in label.py program and execute it.
-
-Step 3:finally run webcam.py, the webcam output gets saved as out.mp4.
 
