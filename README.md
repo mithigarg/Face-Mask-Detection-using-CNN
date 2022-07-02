@@ -10,8 +10,9 @@ I’m genuinely concerned about them. So, Instead of sitting idle and let negati
 
 Installation:
 
-Please download dataset from site - https://github.com/prajnasb/observations/tree/master/experiements/data
-All the required installation are mentioned in the requirements.txt
+- Please download dataset from site - https://github.com/prajnasb/observations/tree/master/experiements/data
+
+- All the required installation are mentioned in the requirements.txt
 
 
 
